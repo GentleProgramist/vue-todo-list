@@ -10,7 +10,7 @@
             @item-deleted="deleteToDo(item.id)"
             @item-edited="editToDo(item.id, $event)">
         </to-do-item>
-      </li>
+      </li> 
     </ul>
   </div>
 </template>
